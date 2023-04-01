@@ -24,7 +24,7 @@
 
 
 ### 关于我
-- [博客](http://www.076w.cn/)
-- [关于](http://www.076w.cn/about/)
+- [博客](http://www.076w.cn/)  - [关于](http://www.076w.cn/about/)
+
 
 
