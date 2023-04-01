@@ -1,14 +1,17 @@
 ## 道阻且长 行则必达 👋
 ---
-<img align="right" src="http://www.076w.cn/about/files/image5.jpg" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm 076w
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+ID：076w
+- 性别：男
+- QQ：xxxxxx
+- 微信号：xxxxxx
+- 年龄：年龄是男人的秘密
+- 签名：道阻且长 行则必达
+- 兴趣：摸鱼摆烂
+- 一句话介绍：哪里不太对呢，为什么我复现不了呢，为什么我挖不到洞呢，好怪好怪.?
 
 ### 🛠 技术栈 | Tech Stack
 
