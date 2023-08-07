@@ -1,4 +1,5 @@
-## 道阻且长 行则必达 👋
+## 知其不可奈何 而安之若命
+## 心若有所向往 何惧道阻且长
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
