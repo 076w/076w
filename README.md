@@ -1,10 +1,18 @@
-## 知其不可奈何 而安之若命
+我 | 在这里
+👨‍🎓 读书 | 太原 · 计算机网络技术 · 专科
+👨‍💻 工作 | 江苏 · 渗透测试工程师
+🎃 爱好 | 研究技术、篮球、发呆、吃吃喝喝 ~ 
+🏷️ 标签 |  
+📥 邮箱 | ideal_bwh@163.com  
 
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-### I'm 076w
-
-- **ID**：076w
-- **性别**：男
-- **兴趣**：发呆
+社区 | 偶尔玩
+ Github @ 076w 
+blog @ 076w 
+ 哔哩哔哩 @ 076w 干杯 🍻
+技术世界
+尚在修改...
+xxxx 技术
+1. xxxx 基础
+  a. xxxx
+  b. xxxx
+  c. xxxx
